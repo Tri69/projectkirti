@@ -22,10 +22,10 @@ sun.addEventListener('click', () => {
 const title = document.querySelector(".title");
 
 setInterval(()=> {
-	title.classList.add("color")
+	title.style.color = 'orange'
 	setTimeout(() => {
-		title.classList.remove("color")
-	}, 2000)
+		title.style.color = 'blue'
+	}, 1000)
 }, 2000)
 
 const light = document.querySelector("#light");
