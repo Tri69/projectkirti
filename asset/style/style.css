@@ -344,6 +344,9 @@ opacity: .8;
     width: 350px; height: 350px;
 
   }
+	       .img2 {
+	       width: 400px;
+	       }
   .section1 {
     text-align: center;
     display: block; 
