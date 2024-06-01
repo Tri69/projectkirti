@@ -152,9 +152,9 @@ opacity: .8;
 .container-organisasi {
   display: flex; justify-content: space-around;
 }
-.organisasi {background: yellowgreen;
+.organisasi {background: grey;
   width: 150px; height: 150px; border-radius: 50%;
-  box-shadow: 4px 5px 8px rgba(0, 0, 0, .1);
+  box-shadow: 4px 5px 6px rgba(0, 0, 0, .1);
 }
 .org-img {
   width: 140px; height: 150px; border-radius: 50%;
