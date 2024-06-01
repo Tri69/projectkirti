@@ -363,7 +363,7 @@ opacity: .8;
     text-align: center;
   }
   .container-myproject {
-    margin: 20px;margin-left: 15%;
+    margin: 20px;margin-left: 7%;
     display: block; justify-content: center;padding: 10px;
   }
   .myproject {
@@ -371,7 +371,7 @@ opacity: .8;
   }
   .container-organisasi {
     display: block; justify-content: center;
-    margin-left: 30%;
+    margin-left: 17%;
   }
   .organisasi {margin-top: 90px;
     margin: 30px;
