@@ -36,12 +36,12 @@ light.addEventListener("click", function () {
 
 const button1 = document.getElementById('button1')
 button1.addEventListener("click", () => {
-	const url = "https://for.vercel.app";
+	const url = "https://prjipasmie.vercel.app/";
 	window.open(url, "blank")
 })
 const button2 = document.getElementById('button2')
 button2.addEventListener("click", () => {
-	const url = "https://a.vercel.app";
+	const url = "https://webstemsago.vercel.app/";
 	window.open(url, "blank")
 })
 
